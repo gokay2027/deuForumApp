@@ -14,6 +14,11 @@ i will be able to create a communication between more than one type of devices a
 developed. This project is planned to be released into the mobile stores in the future, it will be developed and the system
 will be enlarged.)
 
+Used Technologies
 
+-Java Script - React native 
+-Firebase - Firestore, Auth 
+
+(As i mentioned it still has some lacks but it will be solved and done in the near future)
 
 ![Deu forum app son](https://user-images.githubusercontent.com/70948122/211830188-1f11b18b-fdb7-45d6-9d2c-9d12f8871241.jpg)
