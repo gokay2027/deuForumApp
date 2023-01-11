@@ -1,0 +1,40 @@
+Her bir componentin veri organizasyonu çıkarılacak bu sayede obje olarak getirilecekler //DONE
+
+Firebase Bağlantısı kurulacak //DONE
+
+Veritabanı için bir tasarım yapılaca //DONE
+
+Uygulamanın internet bağlantısı kontrol edilecel EN BAŞTA 
+yoksa bağlantı yok sayfasına yönlendirilecek
+
+
+Mesajlaşma sistemi tasarlanmalı verisel olarak
+MessageBox sisteminin datasının nerede tutulacağı düşünülmeli
+
+Tek defaya mahsus entry ve yorum beğenme yapılmalı 
+(like yapılacağı zaman comment ve entry içindeki likes
+**COLLECTIONUNU** kontrol ederek bu yapılabilir aynı data varsa
+ALERT Verilmeli)
+
+Uygulamadaki textboxların hepsi kontrol koşulları yazılmalı boş entry ve text girilememeli!!!
+
+***Aynı kullanıcı adındaki kullanıcılar 
+kayıt olamamalı (E posta aracılığı ile kontrol etmeyi düşünüyorum). BU ÇOK ÖNEMLİ YOKSA MESAJLAŞMA SİSTEMİ ÇÖKER
+****
+
+Ters scrollbar araştır.
+
+Datelere saat ekle!!
+
+
+Email verification eklenmeli
+
+Firebase storage üzerine çalış yakın zamanda foto ekleme modülü getirilmeli
+
+***ACİL DURUM PROSEDÜRÜ****
+
+YAYINLAMA YAPTIKTAN SONRA YASAL SORUNLAR OLUŞURSA TEMA DEĞİŞTİRİLECEK VE 
+İZMİR ÜNİVERSİTELER ARASI FORUM PLATFORMU OLARAK DEĞİŞECEK
+DEÜ EGE İYTE YAŞAR VE EKONOMİ OLACAK DİĞERLERİNE GEREK DUYMUYORUM.
+
+Telefon testlerine başla

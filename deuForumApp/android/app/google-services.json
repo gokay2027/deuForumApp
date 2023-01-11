@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058255678233",
+    "project_id": "deuforumapp",
+    "storage_bucket": "deuforumapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058255678233:android:e0924d711fe64c80fd3388",
+        "android_client_info": {
+          "package_name": "com.deuforumapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058255678233-uuaf126or1lcdqlh6ptm76i3cm6iteqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4TLbP8Wk9fOY-phA2NXHVyAQigDHg4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058255678233-uuaf126or1lcdqlh6ptm76i3cm6iteqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
