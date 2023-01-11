@@ -1,5 +1,18 @@
 # deuForumApp
 Dokuz Eylül University Forum App
+
+This project is developed to help students about their studentship conditions, 
+there is three types of problems that students cope with in their life in Turkey,
+
+- First of all, Because of economic conditions, students have a huge difficulty to find a place to stay so the first category helps about this problem
+- Second, actually according to first problem, they may need money so the second category helps them advertise their stuff to sell.
+- And the third (the last one for now), as a teenager we all have relationship and social life, so third category is the "Addmision", they can talk about
+their feelings about their crush or talk about something special in real life.
+
+In the forum system, all students are registered using their student e-mail so, there is no any user can register from the outside of the university.
+
+Their completely anonim on the system they have username and they login the system using their usernames.
+
 Development Still in progress this code works and application can be used but there is some little requirements for the forum
 system. It is not completed yet.
 
