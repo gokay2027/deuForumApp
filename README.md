@@ -13,6 +13,8 @@ In the forum system, all students are registered using their student e-mail so, 
 
 Their completely anonim on the system they have username and they login the system using their usernames.
 
+This forum system also has a messaging system
+
 Development Still in progress this code works and application can be used but there is some little requirements for the forum
 system. It is not completed yet.
 
